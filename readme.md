@@ -2,10 +2,11 @@
 
 Here's a list of hobbies that the people of HYF 47 have.
 
-- programming: Kelley, Ibrahim..
-- listening to music: Kelley, Ibrahim..
+- programming: Kelley, ibrahim..
+- listening to music: Kelley, ibrahim..
 - watching sci fi movies: Kelley, ..
-- Playing Video Games: Ibrahim, ..
+- playing video games: ibrahim, ..
+- writing in capital letters: ibrahim, ..
 
 Your challenge:
 
