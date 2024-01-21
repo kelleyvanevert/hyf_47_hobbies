@@ -5,6 +5,8 @@ Here's a list of hobbies that the people of HYF 47 have.
 - programming: Kelley, ..
 - listening to music: Kelley, ..
 - watching sci fi movies: Kelley, ..
+-going to church: Lidya,..
+-spending time with friends: Lidya, ... 
 
 Your challenge:
 
