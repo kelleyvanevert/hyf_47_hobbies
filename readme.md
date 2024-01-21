@@ -12,4 +12,4 @@ Your challenge:
 - Clone your forked repository to your computer
 - Add one or two of your hobbies to the list above
 - Commit and push it back to your repo
-- Create aPR back to my repository with your changes
+- Create a PR (pull request) back to my repository with your changes
