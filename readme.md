@@ -6,7 +6,8 @@ Here's a list of hobbies that the people of HYF 47 have.
 - listening to music: Kelley, ..
 - watching sci fi movies: Kelley, ..
 - reading: Hailemariam
-- Playing Video Games: Ibrahim, ..
+- playing video games: Ibrahim, Rustam, ..
+- reading books: Rustam, ..
 
 Your challenge:
 
