@@ -3,9 +3,9 @@
 Here's a list of hobbies that the people of HYF 47 have.
 
 - programming: Kelley, ..
-- listening to music: Kelley, ..
+- listening to music: Kelley, .. rasha
 - watching sci fi movies: Kelley, ..
-
+- palying video games , rasha
 Your challenge:
 
 - Fork this repository to your GitHub profile
