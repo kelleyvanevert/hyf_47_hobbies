@@ -2,9 +2,11 @@
 
 Here's a list of hobbies that the people of HYF 47 have.
 
-- programming: Kelley, ..
+- programming: Kelley, Mohammed Gumaan, ..
 - listening to music: Kelley, ..
 - watching sci fi movies: Kelley, ..
+- Playing video games: Mohammed Gumaan, ..
+- Swimming: Mohammed Gumaan, ..
 
 Your challenge:
 
