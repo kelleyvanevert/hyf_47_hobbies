@@ -2,9 +2,10 @@
 
 Here's a list of hobbies that the people of HYF 47 have.
 
-- programming: Kelley, ..
-- listening to music: Kelley, ..
+- programming: Kelley, Hana ..
+- listening to music: Kelley, Hana ..
 - watching sci fi movies: Kelley, ..
+- embroidery: Hana,..
 
 Your challenge:
 
