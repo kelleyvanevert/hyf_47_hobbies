@@ -13,6 +13,7 @@ Here's a list of hobbies that the people of HYF 47 have.
 - going to church: Lidya,..
 - spending time with friends: Lidya, ... 
 - embroidery: Hana,..
+- writing in capital letters: ibrahim, ..
 
 Your challenge:
 
