@@ -10,6 +10,8 @@ Here's a list of hobbies that the people of HYF 47 have.
 - reading books: Rustam, ..
 - swimming: Ahmet, Mohammed Gumaan, ..
 - Playing football: Ahmet
+- going to church: Lidya,..
+- spending time with friends: Lidya, ... 
 
 Your challenge:
 
