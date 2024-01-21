@@ -5,6 +5,8 @@ Here's a list of hobbies that the people of HYF 47 have.
 - programming: Kelley, ..
 - listening to music: Kelley, ..
 - watching sci fi movies: Kelley, ..
+- swimming: Ahmet
+- Playing Football
 
 Your challenge:
 
